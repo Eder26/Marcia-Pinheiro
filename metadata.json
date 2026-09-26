@@ -1,0 +1,6 @@
+{
+  "name": "Wellness Longevidade",
+  "description": "Plataforma profissional de atendimento clínico em naturopatia, nutrição funcional e fitoterapia com prontuário digital e protocolos personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
